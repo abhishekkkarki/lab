@@ -1,0 +1,1 @@
+print(f"The smallest number is {s}")
